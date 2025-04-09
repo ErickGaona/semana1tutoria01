@@ -8,3 +8,4 @@
 - Practicum 3
 - base de la tecnologia
 - computacion paralela
+
